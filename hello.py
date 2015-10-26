@@ -1,6 +1,6 @@
-word="test2"
+word=('test2')
 for w in word:
- print w
+ print(w)
 
-print"end"
+print('end')
 

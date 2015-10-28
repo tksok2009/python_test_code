@@ -1,14 +1,14 @@
 # python_test_code
 
-<<<<<<< HEAD
-this code is used type of python3.
-coding enviroment is windows 10.
-=======
+change base of python3 code
+
+
+#other branch
 
 branch master -> type of python2 code (environment:mac)
+	-> change python3 base code(enviroment:mac or win10)
 
 branch centos -> type of python2 code (environment:centos)
 
 branch toys -> type of phthon3 code(environment:win10)
 
->>>>>>> master

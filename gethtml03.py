@@ -3,12 +3,11 @@
 import urllib.request, urllib.error
 import sys
 
-
+#main flow
 if __name__ == "__main__":
 
  usersys=sys.argv
  usersyslen= len(usersys)
-
 
  if usersyslen > 1:
   url=usersys[1]

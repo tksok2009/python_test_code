@@ -2,4 +2,6 @@
 .DS_Store
 .idea
 
+__pychache__/
+
 test01.git/

@@ -3,5 +3,6 @@
 .idea
 
 __pychache__/
+*__/
 
 test01.git/

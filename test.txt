@@ -1,6 +1,1 @@
-this is test text
-これはテスト用のコードです。
-123456789
-conflict test
-
-conflict test2
+atest
